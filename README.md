@@ -1,4 +1,4 @@
-# 📚 TS Academy Library API
+TS Academy Library API
 
 A production-style RESTful API for managing a school library system built with Node.js, Express, and MongoDB.
 
@@ -6,15 +6,15 @@ This project demonstrates backend engineering skills including MVC architecture,
 
 ---
 
-## 🚀 Features
+ Features
 
-### 📖 Core Modules
+Core Modules
 - Authors management (CRUD)
 - Books management (CRUD)
 - Students management
 - Library attendants management
 
-### ⚙️ Advanced Features
+Advanced Features
 - Book borrowing & return system
 - Overdue detection (return date tracking)
 - Pagination for books listing
@@ -26,7 +26,7 @@ This project demonstrates backend engineering skills including MVC architecture,
 
 ---
 
-## 🛠 Tech Stack
+Tech Stack
 
 - Node.js
 - Express.js
@@ -37,16 +37,12 @@ This project demonstrates backend engineering skills including MVC architecture,
 
 ---
 
-## 📁 Project Structure
+Project Structure
 /models → Database schemas
 /controllers → Business logic
 /routes → API endpoints
 /middleware → Validation & helpers
 /config → Database & Swagger config
 server.js → App entry point
-
----
-
-
 
 ## 📁 Project Structure
